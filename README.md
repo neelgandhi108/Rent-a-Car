@@ -27,7 +27,7 @@ Admin Dashboard Screen
 
 Project Structure Screen
 
-![Project Structure Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/master/image045.png?raw=true "Project Structure Screen")
+![Project Structure Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/image045.png "Project Structure Screen")
 
 
 
