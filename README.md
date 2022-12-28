@@ -7,23 +7,23 @@ Administrators, on the other hand, have the ability to add new cars to the renta
 
 Overall, this Angular application was built using Angular, Microsoft Visual Studio Community 2017, and SQL Server 2008 R2 Express Edition. It aims to streamline the car rental process by allowing users to easily browse available vehicles, make bookings, and make payments online. With the ability to view and manage bookings, as well as add and remove cars from the rental inventory, administrators can efficiently manage the rental business through the use of this application.
 
-![Rent A Car](https://github.com/neelgandhi108/Rent-a-Car/blob/master/images/image001.png "Rent A Car")
+![Rent A Car](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image001.png "Rent A Car")
 
 
 
-![Registration Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/master/images/image053.png "Registration Screen")
+![Registration Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image053.png "Registration Screen")
 
 Login Screen
 
-![Login Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/master/images/image055.png "Login Screen")
+![Login Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image055.png "Login Screen")
 
 User Dashboard Screen
 
-![User Dashboard Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/master/images/image057.png "Login Screen")
+![User Dashboard Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image057.png "Login Screen")
 
 Admin Dashboard Screen
 
-![Admin Dashboard Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/master/images/image083.png "Admin Dashboard Screen")
+![Admin Dashboard Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image083.png "Admin Dashboard Screen")
 
 Project Structure Screen
 
