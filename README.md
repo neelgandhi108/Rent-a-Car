@@ -11,12 +11,6 @@ Overall, this Angular application was built using Angular, Microsoft Visual Stud
 
 
 
-![Registration Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image053.png "Registration Screen")
-
-Login Screen
-
-![Login Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image055.png "Login Screen")
-
 User Dashboard Screen
 
 ![User Dashboard Screen](https://github.com/neelgandhi108/Rent-a-Car/blob/main/images/image057.png "Login Screen")
